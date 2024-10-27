@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=KineticEnergy
+comment1.params=particles
+comment1.target=double\ calculate(java.util.List)
+numComments=2

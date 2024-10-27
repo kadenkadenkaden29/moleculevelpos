@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=BoundaryCondition
+comment1.params=particles
+comment1.target=void\ apply(java.util.List)
+numComments=2

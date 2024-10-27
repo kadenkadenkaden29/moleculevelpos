@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Particle
+comment1.params=position\ velocity\ mass
+comment1.target=Particle(double[],\ double[],\ double)
+comment2.params=
+comment2.target=double[]\ getPosition()
+comment3.params=
+comment3.target=double[]\ getVelocity()
+comment4.params=
+comment4.target=double[]\ getForce()
+comment5.params=
+comment5.target=double\ getMass()
+comment6.params=position
+comment6.target=void\ setPosition(double[])
+comment7.params=velocity
+comment7.target=void\ setVelocity(double[])
+comment8.params=force
+comment8.target=void\ setForce(double[])
+numComments=9

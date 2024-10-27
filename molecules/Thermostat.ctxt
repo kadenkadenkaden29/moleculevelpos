@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Thermostat
+comment1.params=particles
+comment1.target=void\ apply(java.util.List)
+comment2.params=particles
+comment2.target=double\ calculateTemperature(java.util.List)
+numComments=3

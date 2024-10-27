@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ForceField
+comment1.params=particles
+comment1.target=void\ calculateForces(java.util.List)
+comment2.params=p1\ p2
+comment2.target=double[]\ calculateForceBetween(Particle,\ Particle)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PotentialEnergy
+comment1.params=particles
+comment1.target=double\ calculate(java.util.List)
+comment2.params=p1\ p2
+comment2.target=double\ calculatePairEnergy(Particle,\ Particle)
+numComments=3
